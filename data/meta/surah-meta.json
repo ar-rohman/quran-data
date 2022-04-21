@@ -4,6 +4,7 @@
   "surah_name": "Al-Fatihah",
   "name_arabic": "الفاتحة",
   "translated_name": "Pembukaan",
+  "verses_count": 7,
   "bismillah_pre": false,
   "revelation_place": "makkah",
   "revelation_order": 5
@@ -13,6 +14,7 @@
   "surah_name": "Al-Baqarah",
   "name_arabic": "البقرة",
   "translated_name": "Sapi Betina",
+  "verses_count": 286,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 87
@@ -22,6 +24,7 @@
   "surah_name": "Ali 'Imran",
   "name_arabic": "آل عمران",
   "translated_name": "Keluarga Imran",
+  "verses_count": 200,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 89
@@ -31,6 +34,7 @@
   "surah_name": "An-Nisa",
   "name_arabic": "النساء",
   "translated_name": "Wanita",
+  "verses_count": 176,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 92
@@ -40,6 +44,7 @@
   "surah_name": "Al-Ma'idah",
   "name_arabic": "المائدة",
   "translated_name": "Jamuan (Hidangan Makanan)",
+  "verses_count": 120,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 112
@@ -49,6 +54,7 @@
   "surah_name": "Al-An'am",
   "name_arabic": "الأنعام",
   "translated_name": "Binatang Ternak",
+  "verses_count": 165,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 55
@@ -58,6 +64,7 @@
   "surah_name": "Al-A'raf",
   "name_arabic": "الأعراف",
   "translated_name": "Tempat-tempat Tinggi",
+  "verses_count": 206,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 39
@@ -67,6 +74,7 @@
   "surah_name": "Al-Anfal",
   "name_arabic": "الأنفال",
   "translated_name": "Rampasan Perang",
+  "verses_count": 75,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 88
@@ -76,6 +84,7 @@
   "surah_name": "At-Tawbah",
   "name_arabic": "التوبة",
   "translated_name": "Pengampunan",
+  "verses_count": 129,
   "bismillah_pre": false,
   "revelation_place": "madinah",
   "revelation_order": 113
@@ -85,6 +94,7 @@
   "surah_name": "Yunus",
   "name_arabic": "يونس",
   "translated_name": "Yunus",
+  "verses_count": 109,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 51
@@ -94,6 +104,7 @@
   "surah_name": "Hud",
   "name_arabic": "هود",
   "translated_name": "Hud",
+  "verses_count": 123,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 52
@@ -103,6 +114,7 @@
   "surah_name": "Yusuf",
   "name_arabic": "يوسف",
   "translated_name": "Yusuf",
+  "verses_count": 111,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 53
@@ -112,6 +124,7 @@
   "surah_name": "Ar-Ra'd",
   "name_arabic": "الرعد",
   "translated_name": "Guruh (Petir)",
+  "verses_count": 43,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 96
@@ -121,6 +134,7 @@
   "surah_name": "Ibrahim",
   "name_arabic": "ابراهيم",
   "translated_name": "Ibrahim",
+  "verses_count": 52,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 72
@@ -130,6 +144,7 @@
   "surah_name": "Al-Hijr",
   "name_arabic": "الحجر",
   "translated_name": "Bukit",
+  "verses_count": 99,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 54
@@ -139,6 +154,7 @@
   "surah_name": "An-Nahl",
   "name_arabic": "النحل",
   "translated_name": "Lebah Madu",
+  "verses_count": 128,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 70
@@ -148,6 +164,7 @@
   "surah_name": "Al-Isra",
   "name_arabic": "الإسراء",
   "translated_name": "Perjalanan Malam",
+  "verses_count": 111,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 50
@@ -157,6 +174,7 @@
   "surah_name": "Al-Kahf",
   "name_arabic": "الكهف",
   "translated_name": "Para Penghuni Gua",
+  "verses_count": 110,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 69
@@ -166,6 +184,7 @@
   "surah_name": "Maryam",
   "name_arabic": "مريم",
   "translated_name": "Maryam",
+  "verses_count": 98,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 44
@@ -175,6 +194,7 @@
   "surah_name": "Taha",
   "name_arabic": "طه",
   "translated_name": "Tha-Ha",
+  "verses_count": 135,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 45
@@ -184,6 +204,7 @@
   "surah_name": "Al-Anbya",
   "name_arabic": "الأنبياء",
   "translated_name": "Para Nabi",
+  "verses_count": 112,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 73
@@ -193,6 +214,7 @@
   "surah_name": "Al-Hajj",
   "name_arabic": "الحج",
   "translated_name": "Haji",
+  "verses_count": 78,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 103
@@ -202,6 +224,7 @@
   "surah_name": "Al-Mu'minun",
   "name_arabic": "المؤمنون",
   "translated_name": "Orang-orang Mukmin",
+  "verses_count": 118,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 74
@@ -211,6 +234,7 @@
   "surah_name": "An-Nur",
   "name_arabic": "النور",
   "translated_name": "Cahaya",
+  "verses_count": 64,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 102
@@ -220,6 +244,7 @@
   "surah_name": "Al-Furqan",
   "name_arabic": "الفرقان",
   "translated_name": "Pembeda",
+  "verses_count": 77,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 42
@@ -229,6 +254,7 @@
   "surah_name": "Ash-Shu'ara",
   "name_arabic": "الشعراء",
   "translated_name": "Penyair",
+  "verses_count": 227,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 47
@@ -238,6 +264,7 @@
   "surah_name": "An-Naml",
   "name_arabic": "النمل",
   "translated_name": "Semut",
+  "verses_count": 93,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 48
@@ -247,6 +274,7 @@
   "surah_name": "Al-Qasas",
   "name_arabic": "القصص",
   "translated_name": "Kisah-kisah",
+  "verses_count": 88,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 49
@@ -256,6 +284,7 @@
   "surah_name": "Al-'Ankabut",
   "name_arabic": "العنكبوت",
   "translated_name": "Laba-laba",
+  "verses_count": 69,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 85
@@ -265,6 +294,7 @@
   "surah_name": "Ar-Rum",
   "name_arabic": "الروم",
   "translated_name": "Bangsa Romawi",
+  "verses_count": 60,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 84
@@ -274,6 +304,7 @@
   "surah_name": "Luqman",
   "name_arabic": "لقمان",
   "translated_name": "Luqman",
+  "verses_count": 34,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 57
@@ -283,6 +314,7 @@
   "surah_name": "As-Sajdah",
   "name_arabic": "السجدة",
   "translated_name": "Sujud",
+  "verses_count": 30,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 75
@@ -292,6 +324,7 @@
   "surah_name": "Al-Ahzab",
   "name_arabic": "الأحزاب",
   "translated_name": "Golongan yang Bersekutu",
+  "verses_count": 73,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 90
@@ -301,6 +334,7 @@
   "surah_name": "Saba",
   "name_arabic": "سبإ",
   "translated_name": "Saba\\'",
+  "verses_count": 54,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 58
@@ -310,6 +344,7 @@
   "surah_name": "Fatir",
   "name_arabic": "فاطر",
   "translated_name": "Pencipta",
+  "verses_count": 45,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 43
@@ -319,6 +354,7 @@
   "surah_name": "Ya-Sin",
   "name_arabic": "يس",
   "translated_name": "Yas Sin",
+  "verses_count": 83,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 41
@@ -328,6 +364,7 @@
   "surah_name": "As-Saffat",
   "name_arabic": "الصافات",
   "translated_name": "Barisan-barisan",
+  "verses_count": 182,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 56
@@ -337,6 +374,7 @@
   "surah_name": "Sad",
   "name_arabic": "ص",
   "translated_name": "Shad",
+  "verses_count": 88,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 38
@@ -346,6 +384,7 @@
   "surah_name": "Az-Zumar",
   "name_arabic": "الزمر",
   "translated_name": "Para Rombongan",
+  "verses_count": 75,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 59
@@ -355,6 +394,7 @@
   "surah_name": "Ghafir",
   "name_arabic": "غافر",
   "translated_name": "Sang Maha Pengampun",
+  "verses_count": 85,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 60
@@ -364,6 +404,7 @@
   "surah_name": "Fussilat",
   "name_arabic": "فصلت",
   "translated_name": "Yang Dijelaskan",
+  "verses_count": 54,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 61
@@ -373,6 +414,7 @@
   "surah_name": "Ash-Shuraa",
   "name_arabic": "الشورى",
   "translated_name": "Musyawarah",
+  "verses_count": 53,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 62
@@ -382,6 +424,7 @@
   "surah_name": "Az-Zukhruf",
   "name_arabic": "الزخرف",
   "translated_name": "Perhiasan",
+  "verses_count": 89,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 63
@@ -391,6 +434,7 @@
   "surah_name": "Ad-Dukhan",
   "name_arabic": "الدخان",
   "translated_name": "Kabut",
+  "verses_count": 59,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 64
@@ -400,6 +444,7 @@
   "surah_name": "Al-Jathiyah",
   "name_arabic": "الجاثية",
   "translated_name": "Yang Bertekuk Lutut",
+  "verses_count": 37,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 65
@@ -409,6 +454,7 @@
   "surah_name": "Al-Ahqaf",
   "name_arabic": "الأحقاف",
   "translated_name": "Bukit-bukir Pasir",
+  "verses_count": 35,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 66
@@ -418,6 +464,7 @@
   "surah_name": "Muhammad",
   "name_arabic": "محمد",
   "translated_name": "Muhammad",
+  "verses_count": 38,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 95
@@ -427,6 +474,7 @@
   "surah_name": "Al-Fath",
   "name_arabic": "الفتح",
   "translated_name": "Kemenangan",
+  "verses_count": 29,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 111
@@ -436,6 +484,7 @@
   "surah_name": "Al-Hujurat",
   "name_arabic": "الحجرات",
   "translated_name": "Kamar-kamar",
+  "verses_count": 18,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 106
@@ -445,6 +494,7 @@
   "surah_name": "Qaf",
   "name_arabic": "ق",
   "translated_name": "Qaf",
+  "verses_count": 45,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 34
@@ -454,6 +504,7 @@
   "surah_name": "Adh-Dhariyat",
   "name_arabic": "الذاريات",
   "translated_name": "Angin yang Menerbangkan",
+  "verses_count": 60,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 67
@@ -463,6 +514,7 @@
   "surah_name": "At-Tur",
   "name_arabic": "الطور",
   "translated_name": "Bukit",
+  "verses_count": 49,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 76
@@ -472,6 +524,7 @@
   "surah_name": "An-Najm",
   "name_arabic": "النجم",
   "translated_name": "Bintang",
+  "verses_count": 62,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 23
@@ -481,6 +534,7 @@
   "surah_name": "Al-Qamar",
   "name_arabic": "القمر",
   "translated_name": "Bulan",
+  "verses_count": 55,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 37
@@ -490,6 +544,7 @@
   "surah_name": "Ar-Rahman",
   "name_arabic": "الرحمن",
   "translated_name": "Yang Maha Pemurah",
+  "verses_count": 78,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 97
@@ -499,6 +554,7 @@
   "surah_name": "Al-Waqi'ah",
   "name_arabic": "الواقعة",
   "translated_name": "Hari Kiamat",
+  "verses_count": 96,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 46
@@ -508,6 +564,7 @@
   "surah_name": "Al-Hadid",
   "name_arabic": "الحديد",
   "translated_name": "Besi",
+  "verses_count": 29,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 94
@@ -517,6 +574,7 @@
   "surah_name": "Al-Mujadila",
   "name_arabic": "المجادلة",
   "translated_name": "Wanita yang Menggugat",
+  "verses_count": 22,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 105
@@ -526,6 +584,7 @@
   "surah_name": "Al-Hashr",
   "name_arabic": "الحشر",
   "translated_name": "Pengusiran",
+  "verses_count": 24,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 101
@@ -535,6 +594,7 @@
   "surah_name": "Al-Mumtahanah",
   "name_arabic": "الممتحنة",
   "translated_name": "Wanita yang Diuji",
+  "verses_count": 13,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 91
@@ -544,6 +604,7 @@
   "surah_name": "As-Saf",
   "name_arabic": "الصف",
   "translated_name": "Barisan",
+  "verses_count": 14,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 109
@@ -553,6 +614,7 @@
   "surah_name": "Al-Jumu'ah",
   "name_arabic": "الجمعة",
   "translated_name": "Hari Jum\\'at",
+  "verses_count": 11,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 110
@@ -562,6 +624,7 @@
   "surah_name": "Al-Munafiqun",
   "name_arabic": "المنافقون",
   "translated_name": "Kaum Munafik",
+  "verses_count": 11,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 104
@@ -571,6 +634,7 @@
   "surah_name": "At-Taghabun",
   "name_arabic": "التغابن",
   "translated_name": "Hari Dinampakkan Kesalahan",
+  "verses_count": 18,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 108
@@ -580,6 +644,7 @@
   "surah_name": "At-Talaq",
   "name_arabic": "الطلاق",
   "translated_name": "Perceraian",
+  "verses_count": 12,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 99
@@ -589,6 +654,7 @@
   "surah_name": "At-Tahrim",
   "name_arabic": "التحريم",
   "translated_name": "Mengharamkan",
+  "verses_count": 12,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 107
@@ -598,6 +664,7 @@
   "surah_name": "Al-Mulk",
   "name_arabic": "الملك",
   "translated_name": "Kerajaan",
+  "verses_count": 30,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 77
@@ -607,6 +674,7 @@
   "surah_name": "Al-Qalam",
   "name_arabic": "القلم",
   "translated_name": "Pena",
+  "verses_count": 52,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 2
@@ -616,6 +684,7 @@
   "surah_name": "Al-Haqqah",
   "name_arabic": "الحاقة",
   "translated_name": "Kenyataan (Hari Kiamat)",
+  "verses_count": 52,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 78
@@ -625,6 +694,7 @@
   "surah_name": "Al-Ma'arij",
   "name_arabic": "المعارج",
   "translated_name": "Tempat yang Naik",
+  "verses_count": 44,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 79
@@ -634,6 +704,7 @@
   "surah_name": "Nuh",
   "name_arabic": "نوح",
   "translated_name": "Nuh",
+  "verses_count": 28,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 71
@@ -643,6 +714,7 @@
   "surah_name": "Al-Jinn",
   "name_arabic": "الجن",
   "translated_name": "Jin",
+  "verses_count": 28,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 40
@@ -652,6 +724,7 @@
   "surah_name": "Al-Muzzammil",
   "name_arabic": "المزمل",
   "translated_name": "Orang yang Berselimut",
+  "verses_count": 20,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 3
@@ -661,6 +734,7 @@
   "surah_name": "Al-Muddaththir",
   "name_arabic": "المدثر",
   "translated_name": "Orang yang Berkemul",
+  "verses_count": 56,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 4
@@ -670,6 +744,7 @@
   "surah_name": "Al-Qiyamah",
   "name_arabic": "القيامة",
   "translated_name": "Hari Berbangkit",
+  "verses_count": 40,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 31
@@ -679,6 +754,7 @@
   "surah_name": "Al-Insan",
   "name_arabic": "الانسان",
   "translated_name": "Manusia",
+  "verses_count": 31,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 98
@@ -688,6 +764,7 @@
   "surah_name": "Al-Mursalat",
   "name_arabic": "المرسلات",
   "translated_name": "Malaikat-malaikan yang Diutus",
+  "verses_count": 50,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 33
@@ -697,6 +774,7 @@
   "surah_name": "An-Naba",
   "name_arabic": "النبإ",
   "translated_name": "Berita Besar",
+  "verses_count": 40,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 80
@@ -706,6 +784,7 @@
   "surah_name": "An-Nazi'at",
   "name_arabic": "النازعات",
   "translated_name": "Malaikat yang Mencabut",
+  "verses_count": 46,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 81
@@ -715,6 +794,7 @@
   "surah_name": "'Abasa",
   "name_arabic": "عبس",
   "translated_name": "Ia Bermuka Masam",
+  "verses_count": 42,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 24
@@ -724,6 +804,7 @@
   "surah_name": "At-Takwir",
   "name_arabic": "التكوير",
   "translated_name": "Menggulung",
+  "verses_count": 29,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 7
@@ -733,6 +814,7 @@
   "surah_name": "Al-Infitar",
   "name_arabic": "الإنفطار",
   "translated_name": "Terbelah",
+  "verses_count": 19,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 82
@@ -742,6 +824,7 @@
   "surah_name": "Al-Mutaffifin",
   "name_arabic": "المطففين",
   "translated_name": "Orang-orang Curang",
+  "verses_count": 36,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 86
@@ -751,6 +834,7 @@
   "surah_name": "Al-Inshiqaq",
   "name_arabic": "الإنشقاق",
   "translated_name": "Terbelah",
+  "verses_count": 25,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 83
@@ -760,6 +844,7 @@
   "surah_name": "Al-Buruj",
   "name_arabic": "البروج",
   "translated_name": "Gugusan Bintang",
+  "verses_count": 22,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 27
@@ -769,6 +854,7 @@
   "surah_name": "At-Tariq",
   "name_arabic": "الطارق",
   "translated_name": "Yang Datang di Malam Hari",
+  "verses_count": 17,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 36
@@ -778,6 +864,7 @@
   "surah_name": "Al-A'la",
   "name_arabic": "الأعلى",
   "translated_name": "Yang Paling Tinggi",
+  "verses_count": 19,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 8
@@ -787,6 +874,7 @@
   "surah_name": "Al-Ghashiyah",
   "name_arabic": "الغاشية",
   "translated_name": "Hari Pembalasan",
+  "verses_count": 26,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 68
@@ -796,6 +884,7 @@
   "surah_name": "Al-Fajr",
   "name_arabic": "الفجر",
   "translated_name": "Fajar",
+  "verses_count": 30,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 10
@@ -805,6 +894,7 @@
   "surah_name": "Al-Balad",
   "name_arabic": "البلد",
   "translated_name": "Negeri",
+  "verses_count": 20,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 35
@@ -814,6 +904,7 @@
   "surah_name": "Ash-Shams",
   "name_arabic": "الشمس",
   "translated_name": "Matahari",
+  "verses_count": 15,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 26
@@ -823,6 +914,7 @@
   "surah_name": "Al-Layl",
   "name_arabic": "الليل",
   "translated_name": "Malam",
+  "verses_count": 21,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 9
@@ -832,6 +924,7 @@
   "surah_name": "Ad-Duhaa",
   "name_arabic": "الضحى",
   "translated_name": "Waktu Dhuha",
+  "verses_count": 11,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 11
@@ -841,6 +934,7 @@
   "surah_name": "Ash-Sharh",
   "name_arabic": "الشرح",
   "translated_name": "Melapangkan",
+  "verses_count": 8,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 12
@@ -850,6 +944,7 @@
   "surah_name": "At-Tin",
   "name_arabic": "التين",
   "translated_name": "Buah Tin",
+  "verses_count": 8,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 28
@@ -859,6 +954,7 @@
   "surah_name": "Al-'Alaq",
   "name_arabic": "العلق",
   "translated_name": "Segumpal Darah",
+  "verses_count": 19,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 1
@@ -868,6 +964,7 @@
   "surah_name": "Al-Qadr",
   "name_arabic": "القدر",
   "translated_name": "Kemuliaan",
+  "verses_count": 5,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 25
@@ -877,6 +974,7 @@
   "surah_name": "Al-Bayyinah",
   "name_arabic": "البينة",
   "translated_name": "Pembuktian",
+  "verses_count": 8,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 100
@@ -886,6 +984,7 @@
   "surah_name": "Az-Zalzalah",
   "name_arabic": "الزلزلة",
   "translated_name": "Kegoncangan",
+  "verses_count": 8,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 93
@@ -895,6 +994,7 @@
   "surah_name": "Al-'Adiyat",
   "name_arabic": "العاديات",
   "translated_name": "Berlari Kencang",
+  "verses_count": 11,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 14
@@ -904,6 +1004,7 @@
   "surah_name": "Al-Qari'ah",
   "name_arabic": "القارعة",
   "translated_name": "Hari Kiamat",
+  "verses_count": 11,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 30
@@ -913,6 +1014,7 @@
   "surah_name": "At-Takathur",
   "name_arabic": "التكاثر",
   "translated_name": "Bermegah-megahan",
+  "verses_count": 8,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 16
@@ -922,6 +1024,7 @@
   "surah_name": "Al-'Asr",
   "name_arabic": "العصر",
   "translated_name": "Waktu Sore",
+  "verses_count": 3,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 13
@@ -931,6 +1034,7 @@
   "surah_name": "Al-Humazah",
   "name_arabic": "الهمزة",
   "translated_name": "Pengumpat",
+  "verses_count": 9,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 32
@@ -940,6 +1044,7 @@
   "surah_name": "Al-Fil",
   "name_arabic": "الفيل",
   "translated_name": "Gajah",
+  "verses_count": 5,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 19
@@ -949,6 +1054,7 @@
   "surah_name": "Quraysh",
   "name_arabic": "قريش",
   "translated_name": "Suku Quraisy",
+  "verses_count": 4,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 29
@@ -958,6 +1064,7 @@
   "surah_name": "Al-Ma'un",
   "name_arabic": "الماعون",
   "translated_name": "Barang yang Berguna",
+  "verses_count": 7,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 17
@@ -967,6 +1074,7 @@
   "surah_name": "Al-Kawthar",
   "name_arabic": "الكوثر",
   "translated_name": "Nikmat Berlimpah",
+  "verses_count": 3,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 15
@@ -976,6 +1084,7 @@
   "surah_name": "Al-Kafirun",
   "name_arabic": "الكافرون",
   "translated_name": "Orang-orang Kafir",
+  "verses_count": 6,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 18
@@ -985,6 +1094,7 @@
   "surah_name": "An-Nasr",
   "name_arabic": "النصر",
   "translated_name": "Pertolongan",
+  "verses_count": 3,
   "bismillah_pre": true,
   "revelation_place": "madinah",
   "revelation_order": 114
@@ -994,6 +1104,7 @@
   "surah_name": "Al-Masad",
   "name_arabic": "المسد",
   "translated_name": "Gejolak Api (Sabut)",
+  "verses_count": 5,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 6
@@ -1003,6 +1114,7 @@
   "surah_name": "Al-Ikhlas",
   "name_arabic": "الإخلاص",
   "translated_name": "Ikhlash",
+  "verses_count": 4,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 22
@@ -1012,6 +1124,7 @@
   "surah_name": "Al-Falaq",
   "name_arabic": "الفلق",
   "translated_name": "Waktu Shubuh",
+  "verses_count": 5,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 20
@@ -1021,6 +1134,7 @@
   "surah_name": "An-Nas",
   "name_arabic": "الناس",
   "translated_name": "Umat Manusia",
+  "verses_count": 6,
   "bismillah_pre": true,
   "revelation_place": "makkah",
   "revelation_order": 21

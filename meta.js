@@ -45,7 +45,7 @@ const surah_meta = surahMeta.map((item) => {
         surah_name: item.name_simple,
         name_arabic: item.name_arabic,
         translated_name: item.translated_name.name,
-        verse_count: item.verse_count,
+        verses_count: item.verses_count,
         bismillah_pre: item.bismillah_pre,
         revelation_place: item.revelation_place,
         revelation_order: item.revelation_order,
