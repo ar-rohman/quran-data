@@ -1,16 +1,49 @@
 const fs = require('fs');
-const sourceFile = './data/translation.json';
-const array = require(sourceFile);
-const outputPath = './data/translation/';
+// const translationSourceFile = './data/translation.json';
+// const translationArray = require(translationSourceFile);
+// const translationOutputPath = './data/translation/';
 
-array.forEach((item, index) => {
+// translationArray.forEach((item, index) => {
+//     const iterate = index + 1;
+//     const setFileName = iterate.toString().padStart(4, '0')
+//     const name = `${translationOutputPath}${setFileName}.json`;
+//     const data = { id: iterate, translation: item };
+//     try {
+//         fs.writeFileSync(name, JSON.stringify(data, null, 1))
+//         console.error(`translation ${iterate} done`)
+//     } catch (err) {
+//         console.error(err)
+//     }
+// });
+
+const indopakSourceFile = './data/indopak.json';
+const indopakArray = require(indopakSourceFile);
+const indopakOutputPath = './data/verses/indopak/';
+
+indopakArray.forEach((item, index) => {
     const iterate = index + 1;
     const setFileName = iterate.toString().padStart(4, '0')
-    const name = `${outputPath}${setFileName}.json`;
-    const data = { id: iterate, translation: item };
+    const name = `${indopakOutputPath}${setFileName}.json`;
+    const data = { id: iterate, script: item };
     try {
         fs.writeFileSync(name, JSON.stringify(data, null, 1))
-        console.error(`${iterate} done`)
+        console.error(`indopak ${iterate} done`)
+    } catch (err) {
+        console.error(err)
+    }
+});
+
+const uthmaniSourceFile = './data/uthmani.json';
+const uthmaniArray = require(uthmaniSourceFile);
+const uthmaniOutputPath = './data/verses/uthmani/';
+
+uthmaniArray.forEach((item) => {
+    const setFileName = item.id.toString().padStart(4, '0')
+    const name = `${uthmaniOutputPath}${setFileName}.json`;
+    const data = { id: item.id, script: item.text_uthmani };
+    try {
+        fs.writeFileSync(name, JSON.stringify(data, null, 1))
+        console.error(`uthmani ${item.id} done`)
     } catch (err) {
         console.error(err)
     }
