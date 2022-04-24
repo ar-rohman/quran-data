@@ -23,7 +23,7 @@ const getJuzList = () => {
     });
     // return result;
     try {
-        fs.writeFileSync('./data/meta/juz-list.json', JSON.stringify(result))
+        fs.writeFileSync('./output/juz-list.json', JSON.stringify(result))
         console.log('juz-list file written successfully')
     } catch (err) {
         console.error(err)
@@ -50,7 +50,7 @@ const getPageList = () => {
     });
     // return result;
     try {
-        fs.writeFileSync('./data/meta/page-list.json', JSON.stringify(result))
+        fs.writeFileSync('./output/page-list.json', JSON.stringify(result))
         console.log('page-list file written successfully')
     } catch (err) {
         console.error(err)
